@@ -1,0 +1,20 @@
+body {
+    background-color: #ccc;
+}
+
+.container {
+    width: 90%;
+    height: 500px;
+    margin: 5%;
+}
+
+.slick-slide {
+    height: 100%;
+    border: 3px solid #829384;
+    box-sizing: border-box;
+}
+
+.slick-slide img {
+    height: 100%;
+    width: 100%;
+}
